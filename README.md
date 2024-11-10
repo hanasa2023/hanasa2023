@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
     <img width="300px" src="https://github-readme-stats.vercel.app/api?username=hanasa2023&theme=react&show_icons=true"></img>
-    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanasa2023&theme=react&layout=compact&langs_count=10&hide=vim%20script,javascript"></img>
+    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanasa2023&theme=react&layout=compact&langs_count=8&hide=vim%20snippet,javascript"></img>
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hanasa2023&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
