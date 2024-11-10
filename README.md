@@ -8,5 +8,5 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
     <img width="300px" src="https://github-readme-stats.vercel.app/api?username=hanasa2023"></img>
-    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanasa2023&layout=compact&hide=javascript,makefile"></img>
+    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanasa2023&layout=compact&hide=javascript,makefile,vimsnippet"></img>
 </p>
