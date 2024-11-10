@@ -8,6 +8,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
     <img width="300px" src="https://github-readme-stats.vercel.app/api?username=hanasa2023&theme=react&show_icons=true"></img>
+</p>
+<p align="center">
     <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanasa2023&theme=react&layout=compact&langs_count=6&hide=vim%20snippet,javascript,css,makefile"></img>
 </p>
 
